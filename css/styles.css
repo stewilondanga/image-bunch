@@ -24,6 +24,13 @@ body {
   height: 1.5em;
 }
 
+#title {
+  margin: 100px auto 50px;
+  text-align: center;
+  font-size: 48px;
+  font-family: sans-serif;
+}
+
 .btn {
   background-color: #141414;
   color: #fff;
@@ -39,13 +46,6 @@ body {
   background: linear-gradient(45deg, #1D976C, #68dd93);
   color: #fff;
   border: none;
-}
-
-#title {
-  margin: 100px auto 50px;
-  text-align: center;
-  font-size: 48px;
-  font-family: sans-serif;
 }
 
 /*#title:nth-child(2) {
