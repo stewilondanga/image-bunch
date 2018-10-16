@@ -24,7 +24,7 @@ body {
   height: 1.5em;
 }
 
-/*.btn {
+.btn {
   background-color: #141414;
   color: #fff;
   padding: 12px;
@@ -35,7 +35,7 @@ body {
   position: relative;
 }
 
-.btn--fill {
+/*.btn--fill {
   background: linear-gradient(45deg, #1D976C, #68dd93);
   color: #fff;
   border: none;
