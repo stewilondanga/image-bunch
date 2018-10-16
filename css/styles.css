@@ -48,11 +48,11 @@ body {
   border: none;
 }
 
-/*#title:nth-child(2) {
+#title:nth-child(2) {
   margin-top: -40px;
 }
 
-#section {
+/*#section {
   background-color: #262626;
   height: 500px;
   position: relative;
