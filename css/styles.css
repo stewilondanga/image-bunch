@@ -52,7 +52,7 @@ body {
   margin-top: -40px;
 }
 
-/*#section {
+#section {
   background-color: #262626;
   height: 500px;
   position: relative;
@@ -61,7 +61,7 @@ body {
   max-width: 800px;
 }
 
-.section__inner {
+/*.section__inner {
   position: absolute;
   border: 2px dashed #68dd93;
   padding-top: 100px;
