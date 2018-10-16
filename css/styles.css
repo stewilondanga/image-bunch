@@ -61,7 +61,7 @@ body {
   max-width: 800px;
 }
 
-/*.section__inner {
+.section__inner {
   position: absolute;
   border: 2px dashed #68dd93;
   padding-top: 100px;
@@ -72,7 +72,7 @@ body {
   bottom: 20px;
 }
 
-span {
+/*span {
   position: relative;
   animation: movespan 4s ease-out infinite;
   display: inline-block;
