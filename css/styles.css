@@ -91,7 +91,7 @@ span:nth-child(4), span:nth-child(4):before {
   animation-delay: .45s;
 }
 
-/*span:before {
+span:before {
   content: '';
   width: 150%;
   height: 200%;
@@ -103,7 +103,7 @@ span:nth-child(4), span:nth-child(4):before {
   z-index: -1;
 }
 
-@keyframes move {
+/*@keyframes move {
   0% {
     transform: scale(0.4) translate(0, 100%);
     opacity: 0;
