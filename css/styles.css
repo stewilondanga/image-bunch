@@ -121,7 +121,7 @@ span:before {
   }
 }
 
-/*@keyframes movespan {
+@keyframes movespan {
   0% {
     transform: translate(0, 0);
     opacity: 0;
@@ -146,7 +146,7 @@ span:before {
   }
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
